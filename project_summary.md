@@ -33,7 +33,6 @@ The super-creator loves to invent new laws, to the delight of creators worldwide
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
 
-[Example Link](http://www.google.com "Example Link")
 <a href="https://play.google.com/store/apps/details?id=com.flatland">
   <img alt="Android app on Google Play"
        src="https://developer.android.com/images/brand/en_app_rgb_wo_60.png" />
